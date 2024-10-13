@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\ders1\01derskonuları\bin\Debug\01derskonuları.exe.config
+C:\Users\LENOVO\source\repos\ders1\01derskonuları\bin\Debug\01derskonuları.exe
+C:\Users\LENOVO\source\repos\ders1\01derskonuları\bin\Debug\01derskonuları.pdb
+C:\Users\LENOVO\source\repos\ders1\01derskonuları\obj\Debug\01derskonuları.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ders1\01derskonuları\obj\Debug\01derskonuları.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ders1\01derskonuları\obj\Debug\01derskonuları.exe
+C:\Users\LENOVO\source\repos\ders1\01derskonuları\obj\Debug\01derskonuları.pdb
